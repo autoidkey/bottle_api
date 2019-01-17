@@ -5,10 +5,10 @@
 
 ## googleスプレッドシートのリンク
 例題用:
-https://docs.google.com/spreadsheets/d/1cOcw4MuJ_tjf86bJaKX94WGMIKhG7r4ksAP0pzV_eEA/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Q9nGxBEMmF5xYpaPZc18DCK_VWfjIjKCW9aGTq4OlG4/edit?usp=sharing
 
 回答用:
-https://docs.google.com/spreadsheets/d/1rjnwWiRgcleESs6yxVy6CGC5MUeQShDTets8Ld018yg/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1z--DhsIy2kAZeQx5r2zjsgxp8cERYQWKxeXP7CWNEC0/edit?usp=sharing
 
 ネット環境必須です
 
